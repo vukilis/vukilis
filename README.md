@@ -44,7 +44,7 @@
 ---
 ### :fire: My Stats :
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/73ymNClJu3dyFugAl9/giphy.gif" width="100"/>
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vukilis&theme=ayu-mirage&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD601D&currStreakNum=C11BDD&stroke=864A8272&sideNums=C11BDD&currStreakLabel=DDB617&sideLabels=DDB617&fire=DDB617&dates=17CFDD&background=FFE9E900)](https://git.io/streak-stats)
