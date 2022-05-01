@@ -19,7 +19,6 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
