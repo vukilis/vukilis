@@ -46,3 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
