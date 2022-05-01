@@ -50,6 +50,4 @@
 ---
 
 ### :fire: My Stats :
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vukilis&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+            [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vukilis&theme=dark&background=000000)](https://git.io/streak-stats)
