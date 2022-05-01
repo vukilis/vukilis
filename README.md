@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
-<h2 align="center">
+<p align="center">
   Vuk Lekić
-</h2>
+</p>
 <h1 align="center">
   DevOps Engineer
 </h1>
