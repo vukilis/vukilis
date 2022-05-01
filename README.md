@@ -3,8 +3,8 @@
 </div>
 <h1 align="center">
   DevOps & Back-end Developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
 </div>
