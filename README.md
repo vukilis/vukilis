@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 <h1 align="center">
-     Vuk Lekić                                                                                                                                                                                                          DevOps Engineer 
+  Vuk Lekić
+</h1>
+<h1 align="center">
+  DevOps Engineer
 </h1>
 <div align="center">
   <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" height="300"/>
