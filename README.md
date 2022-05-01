@@ -50,4 +50,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vukilis&theme=ayu-mirage&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD601D&currStreakNum=C11BDD&stroke=864A8272&sideNums=C11BDD&currStreakLabel=DDB617&sideLabels=DDB617&fire=DDB617&dates=17CFDD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vukilis&theme=ayu-mirage&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD601D&currStreakNum=C11BDD&stroke=864A8272&sideNums=C11BDD&currStreakLabel=DDB617&sideLabels=DDB617&fire=DDB617&dates=17CFDD&background=FFE9E900)](https://git.io/streak-stats)
