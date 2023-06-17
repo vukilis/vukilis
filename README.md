@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">
   Vuk Lekić
-                                                                                                                   DevOps Engineer
+                                                                                                                 DevOps Engineer
 </h1>
 <div align="center">
   <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" height="300"/>
