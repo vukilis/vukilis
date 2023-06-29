@@ -59,7 +59,7 @@
 </details>
 
 <details>
-  <summary>:computer: My Coding Stats :</summary>
+  <summary>:pencil2: My Coding Stats :</summary>
   <br>
   
   <p align="center">
@@ -79,5 +79,15 @@
       <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/5baad70a-cf49-4b82-94c0-9a7b8e82a039.svg" />
     </a>
   </p>
+    
+</details>
+
+<details>
+  <summary>:shield: My TryHackMe Stats :</summary>
+  <br>
+
+  <div align="center">
+      <script src="https://tryhackme.com/badge/695529"></script>
+  </div>
     
 </details>
