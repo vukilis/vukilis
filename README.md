@@ -87,13 +87,13 @@
   <br>
   
   <p align="left">
-      <b>CPU & Cooler:</b> <i>Intel i7 13700k & Arctic LF II 280 A-RGB</i>i <br>
-      <b>Motherboard:</b> Z690 Tomahawk WiFi DDR5<br>
-      <b>RAM:</b> DDR5 2x16GB 6000MT/s Kingston Fury Renegade<br>
-      <b>GPU:</b> ZOTAC GeForce® GTX 1060 3GB AMP! Edition<br>
-      <b>Case:</b> Lian LI Air Mini<br>
-      <b>PSU:</b> FSP HYDRO G PRO 1000W<br>
-      <b>Mice & Keyboard:</b> HyperX Pulsefire Haste & Redragon Kala K557<br>
+    <b>CPU & Cooler:</b> <i>Intel i7 13700k & Arctic LF II 280 A-RGB</i><br>
+    <b>Motherboard:</b> <i>690 Tomahawk WiFi DDR5</i><br>
+    <b>RAM:</b> <i>DDR5 2x16GB 6000MT/s Kingston Fury Renegade</i><br>
+    <b>GPU:</b> <i>ZOTAC GeForce® GTX 1060 3GB AMP! Edition</i><br>
+    <b>Case:</b> <i>Lian LI Air Mini</i><br>
+    <b>PSU:</b> <i>FSP HYDRO G PRO 1000W</i><br>
+    <b>Mice & Keyboard:</b> <i>HyperX Pulsefire Haste & Redragon Kala K557</i><br>
   </p>
       
 </details>
