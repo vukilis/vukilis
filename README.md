@@ -60,7 +60,7 @@
   <summary>:fa-code: My Coding Stats :</summary>
   <br>
 
-  <div align="center">
+  <div align="left">
     <p>
       <a href="https://wakatime.com/@vukilis" target=”_blank”>
           <img align="center" width="400" src="https://wakatime.com/share/@vukilis/2eed8ebc-554c-4b3a-a2c6-9416b3486827.svg" />
