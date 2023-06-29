@@ -68,7 +68,7 @@
   <br>
   
   <p align="left">
-    <b>CPU & Cooler:</b> <i>Intel i7 13700k & Arctic LF II 280 A-RGB</i><br>
+    <b>CPU & Cooler:</b> <i style="color:blue">Intel i7 13700k & Arctic LF II 280 A-RGB</i><br>
     <b>Motherboard:</b> <i>Z690 Tomahawk WiFi DDR5</i><br>
     <b>RAM:</b> <i>DDR5 2x16GB 6000MT/s Kingston Fury Renegade</i><br>
     <b>GPU:</b> <i>ZOTAC GeForce® GTX 1060 3GB AMP! Edition</i><br>
