@@ -85,9 +85,7 @@
 <details>
   <summary>:shield: My TryHackMe Stats :</summary>
   <br>
-
-  <div align="center">
-    <script src="https://tryhackme.com/badge/695529"></script>
-  </div>
+  
+  <script src="https://tryhackme.com/badge/695529"></script>
     
 </details>
