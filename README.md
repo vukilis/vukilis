@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
@@ -57,23 +59,23 @@
 </details>
 
 <details>
-  <summary>:fa-code: My Coding Stats :</summary>
+  <summary>:code: My Coding Stats :</summary>
   <br>
   
   <p align="center">
-    <a href="https://wakatime.com/@christitustech">
-      <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/2eed8ebc-554c-4b3a-a2c6-9416b3486827.svg" />
-    </a>
-    <a href="https://wakatime.com/@christitustech">
+    <a href="https://wakatime.com/@vukilis">
       <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/bee2e876-5ff9-4a6f-bb2d-7574c684b798.svg" />
+    </a>
+    <a href="https://wakatime.com/@vukilis">
+      <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/2eed8ebc-554c-4b3a-a2c6-9416b3486827.svg" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://wakatime.com/@christitustech">
+    <a href="https://wakatime.com/@vukilis">
       <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/cb09298b-c060-4540-961d-9a5b5c325302.svg" />
     </a>
-    <a href="https://wakatime.com/@christitustech">
+    <a href="https://wakatime.com/@vukilis">
       <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/5baad70a-cf49-4b82-94c0-9a7b8e82a039.svg" />
     </a>
   </p>
