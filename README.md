@@ -74,7 +74,7 @@
       <img align="center" width="400" height="300" src="" />
     </a>
     <a href="https://wakatime.com/@christitustech">
-      <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/f4384539-cff9-4d5f-bc4c-f15688ce8c3b.svg" />
+      <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/5baad70a-cf49-4b82-94c0-9a7b8e82a039.svg" />
     </a>
   </p>
     
