@@ -86,7 +86,7 @@
   <summary>:desktop_computer: My Gear :</summary>
   <br>
   
-  <p align="center">
+  <p align="left">
       <b>CPU & Cooler:</b> Intel i7 13700k & Arctic LF II 280 A-RGB <br>
       <b>Motherboard:</b> Z690 Tomahawk WiFi DDR5<br>
       <b>RAM:</b> DDR5 2x16GB 6000MT/s Kingston Fury Renegade<br>
