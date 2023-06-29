@@ -65,16 +65,16 @@
       <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/2eed8ebc-554c-4b3a-a2c6-9416b3486827.svg" />
     </a>
     <a href="https://wakatime.com/@christitustech">
-      <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/9c0e26b3-4b4c-4336-a260-374af4a3a8a2.svg" />
+      <img align="center" width="400" height="300" src="" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://wakatime.com/@christitustech">
-      <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/d9340f98-5f34-44a4-9863-89df38480a95.svg" />
+      <img align="center" width="400" height="300" src="" />
     </a>
     <a href="https://wakatime.com/@christitustech">
-      <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/b29c8985-76cc-4c7b-8b55-41bdf98d7787.svg" />
+      <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/f4384539-cff9-4d5f-bc4c-f15688ce8c3b.svg" />
     </a>
   </p>
     
