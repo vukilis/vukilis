@@ -87,7 +87,7 @@
   <br>
 
   <div align="center">
-      <script src="https://tryhackme.com/badge/695529"></script>
+    <script src="https://tryhackme.com/badge/695529"></script>
   </div>
     
 </details>
