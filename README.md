@@ -59,7 +59,7 @@
 </details>
 
 <details>
-  <summary>:code: My Coding Stats :</summary>
+  <summary>:computer: My Coding Stats :</summary>
   <br>
   
   <p align="center">
