@@ -80,12 +80,19 @@
     </a>
   </p>
     
-</details>
-
 <details>
-  <summary>:shield: My TryHackMe Stats :</summary>
+  <summary>:desktop_computer: My Gear :</summary>
   <br>
-  
-  <script src="https://tryhackme.com/badge/695529"></script>
-    
+
+  <div align="left">
+      <p>
+          <b>CPU & Cooler:</b> Intel i7 13700k & Arctic LF II 280 A-RGB <br>
+          <b>Motherboard:</b> Z690 Tomahawk WiFi DDR5<br>
+          <b>RAM:</b> DDR5 2x16GB 6000MT/s Kingston Fury Renegade<br>
+          <b>GPU:</b> ZOTAC GeForce® GTX 1060 3GB AMP! Edition<br>
+          <b>Case:</b> Lian LI Air Mini<br>
+          <b>PSU:</b> FSP HYDRO G PRO 1000W<br>
+          <b>Mice & Keyboard:</b> HyperX Pulsefire Haste & Redragon Kala K557<br>
+      </p>
+  </div>
 </details>
