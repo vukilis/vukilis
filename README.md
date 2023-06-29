@@ -79,7 +79,9 @@
       <img align="center" width="400" height="300" src="https://wakatime.com/share/@vukilis/5baad70a-cf49-4b82-94c0-9a7b8e82a039.svg" />
     </a>
   </p>
-    
+
+</details>
+
 <details>
   <summary>:desktop_computer: My Gear :</summary>
   <br>
