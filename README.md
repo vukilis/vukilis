@@ -11,15 +11,20 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,azure,aws,heroku,docker,kubernetes,nginx,git,ansible,bash,powershell,py,js,mysql,mongodb,postgres&perline=8" />
-  </a>
-</p>
+<details open="">
+  <summary>:fire: My Github Stats :</summary>
+  <br>
+  
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="100"/>
+  </div>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,azure,aws,heroku,docker,kubernetes,nginx,git,ansible,bash,powershell,py,js,mysql,mongodb,postgres&perline=8" />
+    </a>
+  </p>
+</details>
 
 ---
 <details>
