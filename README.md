@@ -10,9 +10,8 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
 <details open="">
-  <summary>:fire: My Github Stats :</summary>
+  <summary>:hammer_and_wrench: Languages and Tools :</summary>
   <br>
   
   <div id="header" align="center">
