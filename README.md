@@ -4,12 +4,11 @@
 <h1 align="center">
   Vuk Lekić<br>DevOps Engineer
 </h1>
-<div align="center">
-    I love Information Technology, playing with Linux and learn about Networking. Attracts me to study Cyber Security and using tools for Digital Forensic.
-    My goal is to become good enought DevOps engineer so I can use CyberSec skills and become DevSecOps.
-    In free time I like to play video games, basketball with friends and write songs. 
-</div>
 
+> I love Information Technology, playing with Linux and learn about Networking. Attracts me to study Cyber Security and using tools for Digital Forensic.
+    My goal is to become good enought DevOps engineer so I can use CyberSec skills and become DevSecOps.
+    In free time I like to play video games, basketball with friends and write songs.
+    
 ---
 
 <details open="">
