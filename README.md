@@ -12,7 +12,7 @@
 ---
 
 <details open="">
-  <summary>:hammer_and_wrench: Languages and Tools :</summary>
+  <summary>🛠️ Languages and Tools :</summary>
   <br>
   
   <div id="header" align="center">
