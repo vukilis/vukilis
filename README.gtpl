@@ -11,6 +11,6 @@
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range rss "https://christitus.com/index.xml" 5 }}
+{{ range rss "https://vukilis.com/index.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
