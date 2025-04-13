@@ -11,5 +11,6 @@
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-<!-- FEED-START -->
-<!-- FEED-END -->
+{{ range rss "https://christitus.com/index.xml" 5 }}
+- [{{ .Title }}]({{ .URL }})
+{{- end }}
