@@ -76,5 +76,4 @@
 ### 📰 Recent Blog Posts
 {{ range rss "https://rss.app/feeds/1UBoUat9m9SvIy2z.xml" 5 }}
 - [{{ .Title }}]({{ .URL }})
-  {{ .Summary }}
 {{ end }}
