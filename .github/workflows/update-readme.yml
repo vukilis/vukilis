@@ -38,7 +38,7 @@ jobs:
           # Options
           user: vukilis
           template: classic
-          base: header, repositories
+          base: repositories
           config_timezone: Europe/Belgrade
           #plugin_gists: yes
           #plugin_habits: yes
