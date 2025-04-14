@@ -79,3 +79,10 @@
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 - [vukilis/configurations](https://github.com/vukilis/configurations) - My personal collection of configuration templates for various tools.
+### 📰 Recent Blog Posts
+
+- [Hugo Static Site Guide](https://vukilis.com/hugo_static_site_guide/)
+- [Windows 10/11 Optimizer &amp; Debloater](https://vukilis.com/Windows_11_Optimizer_Debloater/)
+- [How to Find Last Modified Files Recursively](https://vukilis.com/how-to-find-latest-modified-files-recursively/)
+- [My Hesuvi Configuration on Linux](https://vukilis.com/my-hesuvi-configuration-on-linux/)
+- [Asdf With Poetry](https://vukilis.com/asdf-with-poetry/)
