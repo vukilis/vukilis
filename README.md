@@ -38,7 +38,7 @@
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vukilis&theme=ayu-mirage&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD601D&currStreakNum=C11BDD&stroke=864A8272&sideNums=C11BDD&currStreakLabel=DDB617&sideLabels=DDB617&fire=DDB617&dates=17CFDD&background=FFE9E900)](https://git.io/streak-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vukilis&layout=compact&hide_border=true&bg_color=FFE9E900&title_color=C11BDD)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"><img src="https://raw.githubusercontent.com/vukilis/vukilis/main/github-metrics.svg" /></p>
   </div>
 
 </details>
@@ -59,10 +59,6 @@
   </p>
       
 </details>
-
-### GitHub Stats
-
-<p align="left"><img src="https://raw.githubusercontent.com/vukilis/vukilis/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 
