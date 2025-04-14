@@ -82,7 +82,12 @@
 ### 📰 Recent Blog Posts
 
 - [Hugo Static Site Guide](https://vukilis.com/hugo_static_site_guide/)
+
 - [Windows 10/11 Optimizer &amp; Debloater](https://vukilis.com/Windows_11_Optimizer_Debloater/)
+
 - [How to Find Last Modified Files Recursively](https://vukilis.com/how-to-find-latest-modified-files-recursively/)
+
 - [My Hesuvi Configuration on Linux](https://vukilis.com/my-hesuvi-configuration-on-linux/)
+
 - [Asdf With Poetry](https://vukilis.com/asdf-with-poetry/)
+
