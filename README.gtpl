@@ -12,5 +12,5 @@
 {{- end }}
 ### 📰 Recent Blog Posts
 {{ range rss "https://vukilis.com/index.xml" 5 }}
-- [{{ .Title }}]({{ .URL }})
+- [{{ .Title }}]({{ .Permalink }})
 {{- end }}
