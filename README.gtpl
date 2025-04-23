@@ -74,6 +74,6 @@
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range rss "https://rss.app/feeds/1UBoUat9m9SvIy2z.xml" 5 }}
+{{ range rss "https://feeder.co/discover/377d02bb6b/vukilis-com" 5 }}
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
