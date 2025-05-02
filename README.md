@@ -67,8 +67,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/website](https://github.com/vukilis/website) - My HUGO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/terminal_zsh_script](https://github.com/vukilis/terminal_zsh_script) - My favourite terminals with implementation of ZSH shell
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 - [vukilis/ArchSetup](https://github.com/vukilis/ArchSetup) - My setup for Arch
