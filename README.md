@@ -81,8 +81,8 @@
 - [vukilis/configurations](https://github.com/vukilis/configurations) - My personal collection of configuration templates for various tools.
 ### 📰 Recent Blog Posts
 
+- [Proxmox CT Template](https://vukilis.com/proxmox_ct_template/)
 - [How to Restore Proxmox](https://vukilis.com/how_to_restore_proxmox/)
 - [How to Backup Proxmox With Samba](https://vukilis.com/how_to_backup_proxmox_with_samba/)
 - [Proxmox Migration To A New Server](https://vukilis.com/proxmox_migration_to_a_new_server/)
 - [Hugo Static Site Guide](https://vukilis.com/hugo_static_site_guide/)
-- [Windows 10/11 Optimizer &amp; Debloater](https://vukilis.com/Windows_11_Optimizer_Debloater/)
