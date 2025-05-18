@@ -67,8 +67,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/website](https://github.com/vukilis/website) - My HUGO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/terminal_zsh_script](https://github.com/vukilis/terminal_zsh_script) - My favourite terminals with implementation of ZSH shell
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 - [vukilis/ArchSetup](https://github.com/vukilis/ArchSetup) - My setup for Arch
@@ -81,8 +81,8 @@
 - [vukilis/configurations](https://github.com/vukilis/configurations) - My personal collection of configuration templates for various tools.
 ### 📰 Recent Blog Posts
 
+- [Proxmox VM Template](https://vukilis.com/proxmox_vm_template/)
 - [Proxmox CT Template](https://vukilis.com/proxmox_ct_template/)
 - [How to Restore Proxmox](https://vukilis.com/how_to_restore_proxmox/)
 - [How to Backup Proxmox With Samba](https://vukilis.com/how_to_backup_proxmox_with_samba/)
 - [Proxmox Migration To A New Server](https://vukilis.com/proxmox_migration_to_a_new_server/)
-- [Hugo Static Site Guide](https://vukilis.com/hugo_static_site_guide/)
