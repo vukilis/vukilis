@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 <h1 align="center">
-  Vuk Lekić<br>Linux System Engineer
+  Vuk Lekić<br>Linux System Engineer<br>
+  
+  [![Buy me a beer](https://img.shields.io/badge/BUY%20ME%20A%20BEER-black?style=flat&logo=buymeacoffee&logoColor=black&color=FFDD00)](https://buymeacoffee.com/vukilis)
+  [![ko-fi](https://shields.io/badge/KO--FI-BEER-ff5f5f?logo=ko-fi&style=for-the-badgeKo-fi)](https://ko-fi.com/vukilis)
+
 </h1>
 
 <div align="center">
@@ -67,9 +71,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [vukilis/website](https://github.com/vukilis/website) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
-- [vukilis/website](https://github.com/vukilis/website) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/terminal_zsh_script](https://github.com/vukilis/terminal_zsh_script) - My favourite terminals with implementation of ZSH shell
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 ### 🌱 My latest projects
