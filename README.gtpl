@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 <h1 align="center">
-  Vuk Lekić<br>Linux System Engineer
+  Vuk Lekić<br>Linux System Engineer<br>
+  
+  [![Buy me a beer](https://img.shields.io/badge/BUY%20ME%20A%20BEER-black?style=flat&logo=buymeacoffee&logoColor=black&color=FFDD00)](https://buymeacoffee.com/vukilis)
+  [![ko-fi](https://shields.io/badge/KO--FI-BEER-ff5f5f?logo=ko-fi&style=for-the-badgeKo-fi)](https://ko-fi.com/vukilis)
+
 </h1>
 
 <div align="center">
