@@ -85,8 +85,8 @@
 - [vukilis/configurations](https://github.com/vukilis/configurations) - My personal collection of configuration templates for various tools.
 ### 📰 Recent Blog Posts
 
+- [My HeSuVi Configuration on Linux With JamesDSP](https://vukilis.com/my_hesuvi_configuration_on_linux_with_jamesdsp/)
+- [Betterlockscreen On CachyOS](https://vukilis.com/betterlockscreen_on_cachyos/)
 - [How To Install and Make Gimp Like Photoshop](https://vukilis.com/how_to_install_and_make_gimp_like_photoshop/)
 - [Proxmox VM Template - Debian 12&amp;13](https://vukilis.com/proxmox_vm_template/)
 - [Proxmox CT Template](https://vukilis.com/proxmox_ct_template/)
-- [How to Restore Proxmox](https://vukilis.com/how_to_restore_proxmox/)
-- [How to Backup Proxmox With Samba](https://vukilis.com/how_to_backup_proxmox_with_samba/)
