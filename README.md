@@ -85,8 +85,8 @@
 - [vukilis/configurations](https://github.com/vukilis/configurations) - My personal collection of configuration templates for various tools.
 ### 📰 Recent Blog Posts
 
+- [How to Setup Noise Supression Using DeepFilterNet](https://vukilis.com/how_to_setup_noise_supression_using_deepfilternet/)
 - [Docker Cheatsheet for System Administrators](https://vukilis.com/docker_cheatsheet_for_system_administrators/)
 - [How to Enable Tun/Tap in Proxmox LXC Containers](https://vukilis.com/how_to_enable_tun_tap_in_proxmox_lxc_containers/)
 - [My HeSuVi Configuration on Linux With JamesDSP](https://vukilis.com/my_hesuvi_configuration_on_linux_with_jamesdsp/)
 - [Betterlockscreen On CachyOS](https://vukilis.com/betterlockscreen_on_cachyos/)
-- [How To Install and Make Gimp Like Photoshop](https://vukilis.com/how_to_install_and_make_gimp_like_photoshop/)
