@@ -85,8 +85,8 @@
 - [vukilis/configurations](https://github.com/vukilis/configurations) - My personal collection of configuration templates for various tools.
 ### 📰 Recent Blog Posts
 
+- [Integrating YubiKey FIDO2 With Authentik](https://vukilis.com/integrating_yubikey_fido2_with_authentik/)
 - [How to Enable IOMMU for PCI Passthrough](https://vukilis.com/how_to_enable_iommu_for_pci_passthrough/)
 - [How to Setup Noise Supression Using DeepFilterNet](https://vukilis.com/how_to_setup_noise_supression_using_deepfilternet/)
 - [Docker Cheatsheet for System Administrators](https://vukilis.com/docker_cheatsheet_for_system_administrators/)
 - [How to Enable Tun/Tap in Proxmox LXC Containers](https://vukilis.com/how_to_enable_tun_tap_in_proxmox_lxc_containers/)
-- [My HeSuVi Configuration on Linux With JamesDSP](https://vukilis.com/my_hesuvi_configuration_on_linux_with_jamesdsp/)
