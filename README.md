@@ -71,18 +71,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [vukilis/docker-ninja](https://github.com/vukilis/docker-ninja) - Docker Ninja —  Master your container universe with perfectly crafted stacks for any application — all in one place
 - [vukilis/website](https://github.com/vukilis/website) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/terminal_zsh_script](https://github.com/vukilis/terminal_zsh_script) - My favourite terminals with implementation of ZSH shell
-- [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
 ### 🌱 My latest projects
 
+- [vukilis/docker-ninja](https://github.com/vukilis/docker-ninja) - Docker Ninja —  Master your container universe with perfectly crafted stacks for any application — all in one place
 - [vukilis/ArchSetup](https://github.com/vukilis/ArchSetup) - My setup for Arch
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
-- [vukilis/configurations](https://github.com/vukilis/configurations) - My personal collection of configuration templates for various tools.
 ### 📰 Recent Blog Posts
 
 - [Yerba Mate Reviews 🧉](https://vukilis.com/yerbamate-review/)
