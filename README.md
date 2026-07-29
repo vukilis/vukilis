@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary>:fire: My Github Stats :</summary>
+  <summary>🔥 My Github Stats :</summary>
   <br>
     
   <div id="header" align="center">
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-  <summary>:desktop_computer: My Gear :</summary>
+  <summary>🖥️ My Gear :</summary>
   <br>
   
   <p align="left">
