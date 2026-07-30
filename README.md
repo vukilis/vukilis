@@ -41,7 +41,7 @@
   <div align="center">
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=vukilis&theme=ayu-mirage&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vukilis&layout=compact&hide_border=true&bg_color=FFE9E900&title_color=C11BDD)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vukilis&layout=donut-vertical&langs_count=4&theme=ayu-mirage)](https://github-stats-extended.vercel.app/api/top-langs?username=vukilis&layout=donut-vertical&langs_count=4&theme=ayu-mirage)
   
   </div>
   <div align="center">
