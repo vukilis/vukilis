@@ -22,6 +22,42 @@ jobs:
           template: 'README.gtpl'
           writeTo: 'README.md'
 
+      - name: Fetch RSS via rss2json and update README
+        run: |
+          python3 -c "
+          import urllib.request
+          import json
+          import re
+
+          # Fetch from rss2json API
+          rss_url = 'https://vukilis.com/rss.xml'
+          api_url = f'https://api.rss2json.com/v1/api.json?rss_url={rss_url}'
+          
+          req = urllib.request.Request(api_url)
+          with urllib.request.urlopen(req) as response:
+              data = json.loads(response.read().decode())
+
+          # Parse the first 5 items into markdown
+          items = data.get('items', [])[:5]
+          md_list = []
+          for item in items:
+              md_list.append(f\"- [{item['title']}]({item['link']})\")
+          new_posts = '\n'.join(md_list)
+
+          # Read the README.md that readme-scribe just generated
+          with open('README.md', 'r') as f:
+              readme = f.read()
+
+          # Replace the placeholders with the blog posts
+          pattern = r'(<!-- BLOG_POSTS_START -->)(.*?)(<!-- BLOG_POSTS_END -->)'
+          replacement = f'\\\\1\n{new_posts}\n\\\\3'
+          updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          # Save the updated README.md
+          with open('README.md', 'w') as f:
+              f.write(updated_readme)
+          "
+
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
