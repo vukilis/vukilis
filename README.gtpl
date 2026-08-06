@@ -79,5 +79,3 @@
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-<!-- BLOG_POSTS_START -->
-<!-- BLOG_POSTS_END -->
