@@ -79,6 +79,6 @@
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range rss "https://vukilis.com/rss.xml" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{ end }}
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
