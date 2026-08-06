@@ -26,32 +26,47 @@ jobs:
         run: |
           python3 -c "
           import urllib.request
+          import urllib.parse
           import json
           import re
 
-          # Fetch from rss2json API
+          # The API requires the URL to be strictly encoded
           rss_url = 'https://vukilis.com/rss.xml'
-          api_url = f'https://api.rss2json.com/v1/api.json?rss_url={rss_url}'
+          api_url = f'https://api.rss2json.com/v1/api.json?rss_url={urllib.parse.quote(rss_url, safe=\"\")}'
           
-          req = urllib.request.Request(api_url)
-          with urllib.request.urlopen(req) as response:
-              data = json.loads(response.read().decode())
+          print(f'Fetching from: {api_url}')
+          
+          try:
+              req = urllib.request.Request(api_url)
+              with urllib.request.urlopen(req) as response:
+                  data = json.loads(response.read().decode())
+              
+              print(f'API Status: {data.get(\"status\")}')
+              
+              if data.get('status') == 'ok':
+                  items = data.get('items', [])[:5]
+                  md_list = []
+                  for item in items:
+                      md_list.append(f\"- [{item['title']}]({item['link']})\")
+                  new_posts = '\n'.join(md_list)
+                  print(f'Generated Posts:\n{new_posts}')
+              else:
+                  new_posts = 'Error: rss2json could not fetch the feed.'
+                  print('API returned an error status.')
+          except Exception as e:
+              print(f'Error fetching API: {e}')
+              new_posts = 'Error: Failed to connect to rss2json.'
 
-          # Parse the first 5 items into markdown
-          items = data.get('items', [])[:5]
-          md_list = []
-          for item in items:
-              md_list.append(f\"- [{item['title']}]({item['link']})\")
-          new_posts = '\n'.join(md_list)
-
-          # Read the README.md that readme-scribe just generated
+          # Read the README.md
           with open('README.md', 'r') as f:
               readme = f.read()
 
-          # Replace the placeholders with the blog posts
+          # Safely replace the placeholders
+          def replace_placeholders(match):
+              return f'{match.group(1)}\n{new_posts}\n{match.group(3)}'
+
           pattern = r'(<!-- BLOG_POSTS_START -->)(.*?)(<!-- BLOG_POSTS_END -->)'
-          replacement = f'\\\\1\n{new_posts}\n\\\\3'
-          updated_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+          updated_readme = re.sub(pattern, replace_placeholders, readme, flags=re.DOTALL)
 
           # Save the updated README.md
           with open('README.md', 'w') as f:
