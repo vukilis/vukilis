@@ -72,22 +72,22 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [vukilis/website-v2](https://github.com/vukilis/website-v2) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
-- [vukilis/website](https://github.com/vukilis/website) - My HUGO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 - [vukilis/docker-ninja](https://github.com/vukilis/docker-ninja) - Docker Ninja —  Master your container universe with perfectly crafted stacks for any application — all in one place
 ### 🌱 My latest projects
 
-- [vukilis/website-v2](https://github.com/vukilis/website-v2) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/docker-ninja](https://github.com/vukilis/docker-ninja) - Docker Ninja —  Master your container universe with perfectly crafted stacks for any application — all in one place
 - [vukilis/ArchSetup](https://github.com/vukilis/ArchSetup) - My setup for Arch
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 ### 📰 Recent Blog Posts
 
-- [DockerNinja - Your Infinite Stack for Containerized Applications](https://vukilis.com/dockerninja_infinite_docker_stacks/)
-- [Yerba Mate Reviews 🧉](https://vukilis.com/yerbamate-review/)
-- [Proxmox VE Processor Microcode](https://vukilis.com/proxmox_ve_processor_microcode/)
-- [Integrating YubiKey FIDO2 With Authentik](https://vukilis.com/integrating_yubikey_fido2_with_authentik/)
-- [How to Enable IOMMU for PCI Passthrough](https://vukilis.com/how_to_enable_iommu_for_pci_passthrough/)
+- [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
+- [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
+- [vukilis/docker-ninja](https://github.com/vukilis/docker-ninja) - Docker Ninja —  Master your container universe with perfectly crafted stacks for any application — all in one place
