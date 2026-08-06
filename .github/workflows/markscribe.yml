@@ -28,20 +28,15 @@ jobs:
           import urllib.request
           import urllib.parse
           import json
-          import re
 
-          # The API requires the URL to be strictly encoded
+          # 1. Fetch the posts
           rss_url = 'https://vukilis.com/rss.xml'
           api_url = f'https://api.rss2json.com/v1/api.json?rss_url={urllib.parse.quote(rss_url, safe=\"\")}'
-          
-          print(f'Fetching from: {api_url}')
           
           try:
               req = urllib.request.Request(api_url)
               with urllib.request.urlopen(req) as response:
                   data = json.loads(response.read().decode())
-              
-              print(f'API Status: {data.get(\"status\")}')
               
               if data.get('status') == 'ok':
                   items = data.get('items', [])[:5]
@@ -49,28 +44,43 @@ jobs:
                   for item in items:
                       md_list.append(f\"- [{item['title']}]({item['link']})\")
                   new_posts = '\n'.join(md_list)
-                  print(f'Generated Posts:\n{new_posts}')
               else:
-                  new_posts = 'Error: rss2json could not fetch the feed.'
-                  print('API returned an error status.')
+                  new_posts = 'Error: Could not fetch RSS feed.'
           except Exception as e:
-              print(f'Error fetching API: {e}')
               new_posts = 'Error: Failed to connect to rss2json.'
 
-          # Read the README.md
+          # 2. Inject into README.md using the Heading
+          heading = '### 📰 Recent Blog Posts'
+          
           with open('README.md', 'r') as f:
-              readme = f.read()
-
-          # Safely replace the placeholders
-          def replace_placeholders(match):
-              return f'{match.group(1)}\n{new_posts}\n{match.group(3)}'
-
-          pattern = r'(<!-- BLOG_POSTS_START -->)(.*?)(<!-- BLOG_POSTS_END -->)'
-          updated_readme = re.sub(pattern, replace_placeholders, readme, flags=re.DOTALL)
-
-          # Save the updated README.md
-          with open('README.md', 'w') as f:
-              f.write(updated_readme)
+              lines = f.readlines()
+              
+          start_index = -1
+          end_index = len(lines)
+          
+          # Find the heading
+          for i, line in enumerate(lines):
+              if line.strip() == heading:
+                  start_index = i
+                  break
+                  
+          if start_index != -1:
+              # Find the NEXT heading (starts with ### or ##) to know where to stop
+              for i in range(start_index + 1, len(lines)):
+                  if lines[i].startswith('###') or lines[i].startswith('##'):
+                      end_index = i
+                      break
+                      
+              # Reconstruct the file
+              new_readme = ''.join(lines[:start_index+1]) # Keep everything up to the heading
+              new_readme += '\n' + new_posts + '\n'       # Add the new posts
+              new_readme += ''.join(lines[end_index:])    # Add the rest of the file
+              
+              with open('README.md', 'w') as f:
+                  f.write(new_readme)
+              print('Successfully injected posts into README.md')
+          else:
+              print('ERROR: Blog Posts heading not found in README.md!')
           "
 
       - name: Commit README
