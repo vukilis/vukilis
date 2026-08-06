@@ -79,6 +79,5 @@
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 📰 Recent Blog Posts
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
+<!-- BLOG_POSTS_START -->
+<!-- BLOG_POSTS_END -->
