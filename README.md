@@ -86,4 +86,8 @@
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 ### 📰 Recent Blog Posts
 
-
+- [New Website Based on Astro](https://vukilis.com/blog/2026/new_website_based_on_astro/)
+- [DockerNinja - Your Infinite Stack for Containerized Applications](https://vukilis.com/blog/2026/dockerninja_infinite_docker_stacks/)
+- [Proxmox VE Processor Microcode](https://vukilis.com/blog/2026/proxmox_ve_processor_microcode/)
+- [Integrating YubiKey FIDO2 With Authentik](https://vukilis.com/blog/2026/integrating_yubikey_fido2_with_authentik/)
+- [How to Enable IOMMU for PCI Passthrough](https://vukilis.com/blog/2026/how_to_enable_iommu_for_pci_passthrough/)
