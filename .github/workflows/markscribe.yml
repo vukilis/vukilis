@@ -28,6 +28,7 @@ jobs:
           import urllib.request
           import urllib.parse
           import json
+          import re
 
           # 1. Fetch the posts
           rss_url = 'https://vukilis.com/rss.xml'
@@ -42,7 +43,18 @@ jobs:
                   items = data.get('items', [])[:5]
                   md_list = []
                   for item in items:
-                      md_list.append(f\"- [{item['title']}]({item['link']})\")
+                      title = item.get('title', '')
+                      link = item.get('link', '')
+                      
+                      # Get description, strip HTML tags, and truncate
+                      desc = item.get('description', '')
+                      desc = re.sub(r'<[^>]+>', '', desc) # Removes HTML tags
+                      if len(desc) > 120:
+                          desc = desc[:117] + '...'       # Truncate to 120 chars
+                      
+                      # Format: Title - Description
+                      md_list.append(f\"- [{title}]({link}) - {desc}\")
+                      
                   new_posts = '\n'.join(md_list)
               else:
                   new_posts = 'Error: Could not fetch RSS feed.'
@@ -58,23 +70,20 @@ jobs:
           start_index = -1
           end_index = len(lines)
           
-          # Find the heading
           for i, line in enumerate(lines):
               if line.strip() == heading:
                   start_index = i
                   break
                   
           if start_index != -1:
-              # Find the NEXT heading (starts with ### or ##) to know where to stop
               for i in range(start_index + 1, len(lines)):
                   if lines[i].startswith('###') or lines[i].startswith('##'):
                       end_index = i
                       break
                       
-              # Reconstruct the file
-              new_readme = ''.join(lines[:start_index+1]) # Keep everything up to the heading
-              new_readme += '\n' + new_posts + '\n'       # Add the new posts
-              new_readme += ''.join(lines[end_index:])    # Add the rest of the file
+              new_readme = ''.join(lines[:start_index+1])
+              new_readme += '\n' + new_posts + '\n'
+              new_readme += ''.join(lines[end_index:])
               
               with open('README.md', 'w') as f:
                   f.write(new_readme)
