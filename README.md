@@ -72,8 +72,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 - [vukilis/docker-ninja](https://github.com/vukilis/docker-ninja) - Docker Ninja —  Master your container universe with perfectly crafted stacks for any application — all in one place
