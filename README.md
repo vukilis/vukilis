@@ -72,8 +72,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
@@ -86,4 +86,8 @@
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 ### 📰 Recent Blog Posts
 
-Error: Failed to connect to rss2json.
+- [How I Deploy My Astro Website](https://vukilis.com/blog/2026/how-i-deploy-my-astro-website/) - Whenever I start working on a new project, I want to spend as little time as possible thinking about and managing the...
+- [New Website Based on Astro](https://vukilis.com/blog/2026/new-website-based-on-astro/) - Why I migrated my personal website from Hugo to Astro, and what that decision unlocked in terms of performance, archi...
+- [DockerNinja - Your Infinite Stack for Containerized Applications](https://vukilis.com/blog/2026/dockerninja-infinite-docker-stacks/) - Let's be honest, containerization has fundamentally changed how we ship software, but the experience...
+- [Proxmox VE Processor Microcode](https://vukilis.com/blog/2026/proxmox-ve-processor-microcode/) - Processor Microcode is a layer of low-level software that runs on the processor...
+- [Integrating YubiKey FIDO2 With Authentik](https://vukilis.com/blog/2026/integrating-yubikey-fido2-with-authentik/) - This guide covers the implementation of hardware-backed authentication by integrating Yubico...
