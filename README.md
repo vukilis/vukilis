@@ -72,10 +72,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
-- [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
+- [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 ### 🌱 My latest projects
 
