@@ -72,9 +72,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
-- [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
 - [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 ### 🌱 My latest projects
@@ -86,8 +86,4 @@
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 ### 📰 Recent Blog Posts
 
-- [Convert MP4 To GIF](https://vukilis.com/blog/2026/convert-mp4-to-gif/) - I want to show you my 3 main methods for converting .mp4 files to .gif, whether for Steam, web, or keeping the best p...
-- [Homelab Documentation](https://vukilis.com/blog/2026/homelab-documentation/) - This document specifies the full architecture, network topology, container stacks, and security configurations deploy...
-- [How I Deploy My Astro Website](https://vukilis.com/blog/2026/how-i-deploy-my-astro-website/) - Whenever I start working on a new project, I want to spend as little time as possible thinking about and managing the...
-- [New Website Based on Astro](https://vukilis.com/blog/2026/new-website-based-on-astro/) - Why I migrated my personal website from Hugo to Astro, and what that decision unlocked in terms of performance, archi...
-- [DockerNinja - Your Infinite Stack for Containerized Applications](https://vukilis.com/blog/2026/dockerninja-infinite-docker-stacks/) - Let's be honest, containerization has fundamentally changed how we ship software, but the experience...
+Error: Failed to connect to rss2json.
