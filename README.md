@@ -72,8 +72,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
+- [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
 - [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
 - [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
@@ -86,4 +86,8 @@
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 ### 📰 Recent Blog Posts
 
-Error: Failed to connect to rss2json.
+- [Convert PNG to WEBP](https://vukilis.com/blog/2026/convert-png-to-webp/) - I want to show you my 2 main methods for converting .png files to .webp format. Whether I want a quick browser-based ...
+- [My Proxmox Tags Configuration](https://vukilis.com/blog/2026/my-proxmox-tags-configuration/) - Learn how I use tags in Proxmox to organize my virtual machines and containers, making management easier and more eff...
+- [Terraforming The Homelab](https://vukilis.com/blog/2026/terraforming-the-homelab/) - How I manage my entire Proxmox homelab infrastructure with Terraform, a two-layer module architecture for LXC contain...
+- [Backing Up Proxmox Backup Server Configs](https://vukilis.com/blog/2026/backing-up-proxmox-backup-server-configs/) - Your backup chunks are useless without the configs to restore them. Here's how to back up your Proxmox Backup Server ...
+- [Convert MP4 To GIF](https://vukilis.com/blog/2026/convert-mp4-to-gif/) - I want to show you my 3 main methods for converting .mp4 files to .gif, whether for Steam, web, or keeping the best p...
