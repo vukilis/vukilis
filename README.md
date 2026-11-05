@@ -72,11 +72,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
 - [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
+- [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
+- [vukilis/Windows11-Optimizer-Debloater](https://github.com/vukilis/Windows11-Optimizer-Debloater) - Windows Utility - Install, Tweaks, Fixes and Updates
 - [vukilis/homelab](https://github.com/vukilis/homelab) - My homelab documentation/configuration files
 - [vukilis/website-hugo](https://github.com/vukilis/website-hugo) - My HUGO website that I use to document all my work, store a different guides and how-to articles
-- [vukilis/vukilis-dotfiles](https://github.com/vukilis/vukilis-dotfiles) - my linux dotfiles 
 ### 🌱 My latest projects
 
 - [vukilis/website](https://github.com/vukilis/website) - My ASTRO website that I use to document all my work, store a different guides and how-to articles
@@ -86,8 +86,4 @@
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 ### 📰 Recent Blog Posts
 
-- [Automating My Homelab with Ansible](https://vukilis.com/blog/2026/automating-my-homelab-with-ansible/) - How I replaced manual server tweaks with Ansible playbooks to bootstrap and harden VMs and LXC containers on Proxmox ...
-- [Running Game Trainers and Mods on Linux via Proton](https://vukilis.com/blog/2026/running-game-trainers-and-mods-on-linux-via-proton/) - Step-by-step guide to run Windows game trainers and mods on Linux using Proton via Steam launch options.
-- [Theming the Limine Bootloader](https://vukilis.com/blog/2026/theming-the-limine-bootloader/) - A step-by-step guide to customizing the Limine bootloader with custom background wallpapers, color palettes, and font...
-- [Convert PNG to WEBP](https://vukilis.com/blog/2026/convert-png-to-webp/) - I want to show you my 2 main methods for converting .png files to .webp format. Whether I want a quick browser-based ...
-- [My Proxmox Tags Configuration](https://vukilis.com/blog/2026/my-proxmox-tags-configuration/) - Learn how I use tags in Proxmox to organize my virtual machines and containers, making management easier and more eff...
+Error: Failed to connect to rss2json.
