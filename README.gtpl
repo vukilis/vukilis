@@ -64,8 +64,10 @@
     <b>GPU:</b> <i>ZOTAC GeForce® GTX 1060 3GB AMP! Edition</i><br>
     <b>Case:</b> <i>Lian LI Air Mini</i><br>
     <b>PSU:</b> <i>FSP HYDRO G PRO 1000W</i><br>
-    <b>Mice & Keyboard:</b> <i>HyperX Pulsefire Haste & Redragon Kala K557</i><br>
+    <b>Monitor:</b> <i>BenQ GW2270</i>
+    <b>Mice & Keyboard:</b> <i>MCHOSE L7 Ultra+ & AJAZZ AK820</i><br>
     <b>Headphones & EQ:</b> <i>BEYERDYNAMIC DT 770 PRO 80 ohm & HeSuVi - ooyh0(HRIR) + oratory EQ(Dekoni Hybrid Earpads)</i><br>
+    <b>Microphone:</b> <i>Microphone YU8</i>
   </p>
       
 </details>
