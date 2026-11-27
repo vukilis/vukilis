@@ -64,8 +64,10 @@
     <b>GPU:</b> <i>ZOTAC GeForce® GTX 1060 3GB AMP! Edition</i><br>
     <b>Case:</b> <i>Lian LI Air Mini</i><br>
     <b>PSU:</b> <i>FSP HYDRO G PRO 1000W</i><br>
-    <b>Mice & Keyboard:</b> <i>HyperX Pulsefire Haste & Redragon Kala K557</i><br>
+    <b>Monitor:</b> <i>BenQ GW2270</i>
+    <b>Mice & Keyboard:</b> <i>MCHOSE L7 Ultra+ & AJAZZ AK820</i><br>
     <b>Headphones & EQ:</b> <i>BEYERDYNAMIC DT 770 PRO 80 ohm & HeSuVi - ooyh0(HRIR) + oratory EQ(Dekoni Hybrid Earpads)</i><br>
+    <b>Microphone:</b> <i>Microphone YU8</i>
   </p>
       
 </details>
@@ -86,8 +88,8 @@
 - [vukilis/openSUSE-Tumbleweed](https://github.com/vukilis/openSUSE-Tumbleweed) - My setup for openSUSE Tumbleweed
 ### 📰 Recent Blog Posts
 
+- [My DWM and Picom Setup](https://vukilis.com/blog/2026/my-dwm-and-picom-setup/) - A technical breakdown of my dwm window manager and Picom compositor setup on Linux, including keybindings, blur rules...
 - [Switching from X11 to XLibre on Arch Linux](https://vukilis.com/blog/2026/switching-from-x11-to-xlibre-on-arch-linux/) - Complete migration guide from X11 to XLibre on Arch Linux with security and performance benefits.
 - [Ollama Installation on Linux](https://vukilis.com/blog/2026/ollama-installation-on-linux/) - Complete guide to install and run Ollama on Linux with systemd service management, NVIDIA GPU acceleration, and model...
 - [Automating My Homelab with Ansible](https://vukilis.com/blog/2026/automating-my-homelab-with-ansible/) - How I replaced manual server tweaks with Ansible playbooks to bootstrap and harden VMs and LXC containers on Proxmox ...
 - [Running Game Trainers and Mods on Linux via Proton](https://vukilis.com/blog/2026/running-game-trainers-and-mods-on-linux-via-proton/) - Step-by-step guide to run Windows game trainers and mods on Linux using Proton via Steam launch options.
-- [Theming the Limine Bootloader](https://vukilis.com/blog/2026/theming-the-limine-bootloader/) - A step-by-step guide to customizing the Limine bootloader with custom background wallpapers, color palettes, and font...
